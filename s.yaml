@@ -4,7 +4,7 @@ access: default
 vars:
   region: cn-hangzhou
   oss:
-    bucketName: 'hanxie-modernweb-registery'
+    bucketName: 'alidankun'
     bucketObject2: 'portal'
 services:
   portal-www: # 静态资源
